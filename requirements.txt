@@ -1,0 +1,15 @@
+altgraph==0.17.5
+asttokens==3.0.2
+colorama==0.4.6
+customtkinter==6.0.0
+darkdetect==0.8.0
+executing==2.2.1
+icecream==2.2.0
+packaging==26.3
+pefile==2024.8.26
+Pygments==2.21.0
+pyinstaller==6.22.2
+pyinstaller-hooks-contrib==2026.7
+pywin32-ctypes==0.2.3
+setuptools==84.0.0
+wheel==0.48.0
